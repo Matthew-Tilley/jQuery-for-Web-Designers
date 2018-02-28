@@ -2,3 +2,13 @@
 {
     height: 50vh;
 };
+
+
+.CIRC
+{
+    width:                  100px;
+    height:                 auto;
+    background-color:       darkslategray;
+    border-radius:          50%;
+    color:  white;
+}

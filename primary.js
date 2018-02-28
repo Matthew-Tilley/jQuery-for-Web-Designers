@@ -3,7 +3,7 @@ $(function()
     
  
 $("#TEST").css("background-color", "pink");
-$("#TEST").animate({height: "20vh"});
+$("#TEST").animate({height: "20vh"}, 2500);
  
  
  

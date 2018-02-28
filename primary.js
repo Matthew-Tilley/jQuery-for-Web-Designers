@@ -4,7 +4,7 @@ $(function()
  
  $("#TEST").css("background-color", "yellow");
  
- $(body).css("background-color", "purple");
+ $("body").css("background-color", "purple");
  
  
  

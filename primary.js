@@ -4,7 +4,7 @@ $(function()
     $(".CIRC").on("click", function()
     {
     
-        console.log("KJASDKJHDSA");
+        
         
     });
  

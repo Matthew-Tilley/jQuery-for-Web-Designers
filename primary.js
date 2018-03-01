@@ -13,7 +13,7 @@ $(function()
     
     function FLURP()
     {
-        $(this).css("background-color", "none");
+        $(this).css("background-color", "white");
     };
     
     

@@ -32,3 +32,11 @@
     
     background-color: darkslategray;
 }
+
+
+
+.selected
+{
+    background-color: yellow;
+    color: black;
+}

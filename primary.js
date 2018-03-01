@@ -1,14 +1,13 @@
 $(function()
 {
     
-    $("#TESTER").click(function(GOGO)
+    $("#TESTER").click(GOGO);
+    
+    function GOGO()
     {
-        function GOGO()
-        {
-            console.log("VLURRRPPP");    
-        };
+        console.log("VLURRRPPP");    
+    };
         
-    });
-
+    
     
 });

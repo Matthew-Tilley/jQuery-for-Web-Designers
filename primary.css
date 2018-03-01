@@ -5,6 +5,15 @@
 }
 
 
+.GALLERY
+{
+    display:    flex;
+    justify-content:   space-around;
+    align-items: center;
+}
+
+
+
 .TESTIMG
 {
     width: 15vw;

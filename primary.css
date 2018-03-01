@@ -1,0 +1,11 @@
+$(function()
+{   "use strict";
+    
+    $("#TESTER").on("click", DOSOMETHING;
+    
+    function DOSOMETHING()
+    {
+        console.log("LKJASLKJASDLKJDSAL");    
+    }
+    
+});

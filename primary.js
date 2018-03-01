@@ -1,7 +1,7 @@
 $(function()
 {
     
-    $('a.gallery').colorbox({rel:'gal'});
+    $('a.GALLERY').colorbox({rel:'gal'});
   
     
 });

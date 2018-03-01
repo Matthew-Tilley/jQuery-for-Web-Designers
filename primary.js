@@ -1,7 +1,7 @@
 $(function()
 {
     
-    $('a.GALLERY').colorbox();
+    $('a.GALLERY').colorbox({rel: "group1"});
   
     
 });

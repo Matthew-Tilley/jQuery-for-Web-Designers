@@ -1,10 +1,14 @@
 $(function()
 {
     
-    $("#TESTER").on("click", function()
+    $("#TESTER").click(function(GOGO)
     {
-        console.log("LKJALKJASD");
+        function GOGO()
+        {
+            console.log("VLURRRPPP");    
+        };
+        
     });
-    
+
     
 });

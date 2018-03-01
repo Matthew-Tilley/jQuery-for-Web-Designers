@@ -3,7 +3,7 @@ $(function()
     $("#ADDABUD").on("click", function()
     {
      
-        $(".GROUP").remove();
+        $(".GROUP").append("<input  type = 'text> ");
         
     });
     

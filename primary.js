@@ -1,7 +1,7 @@
 $(function()
 {
     
-    $('.GALLERY.TESTIMG').colorbox();
+    $('.TESTIMG').colorbox();
   
     
 });

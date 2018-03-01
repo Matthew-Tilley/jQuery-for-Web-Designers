@@ -4,7 +4,7 @@ $(function()
     $(".CIRC").on("click", function()
     {
     
-        $(this).toggleClass("BYE");
+        $(this).toggleClass("selected");
         
     });
  

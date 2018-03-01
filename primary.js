@@ -1,9 +1,14 @@
 $(function()
 { "use strict";
     
-    var bingo = $(".LOC-T-01").find(":last-of-type");
+    $(".CIRC").on("click", function()
+    {
+    
+        console.log("KJASDKJHDSA");
+        
+    });
  
-    $(bingo).addClass(".selected");
-       
+    
+   
  
 });

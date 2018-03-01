@@ -5,19 +5,3 @@
 }
 
 
-section
-{
-    display:    flex;
-    justify-content: space-between;
-    align-items: center;
-    
-    padding:    10vh 20vw;
-}
-
-
-h5
-{
-    font-family: arial;
-    font-weight: 700;
-    font-size: 2vw;
-}

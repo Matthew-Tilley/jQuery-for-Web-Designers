@@ -3,7 +3,8 @@ $(function()
     $("#ADDABUD").on("click", function()
     {
      
-        $(".GROUP").append("<input  type = 'text> ");
+        $(".GROUP") .find(".GROUP : last ")
+                    .append("<input  type = 'text> ");
         
     });
     

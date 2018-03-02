@@ -16,6 +16,7 @@
 
 .TESTPIC
 {
+    min-width: 300px;
     width: 15vw;
     height: auto;
 }
@@ -26,6 +27,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
     
     margin-top:     10vh;
 }

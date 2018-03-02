@@ -58,7 +58,7 @@
 		retinaSuffix: '@2x.$1',
 
 		// internationalization
-		current: "image {current} of {total}",
+		current: "Arrangement {current} of {total}",  /* 03-02-18 CHANGED THIS PER LESSON */
 		previous: "previous",
 		next: "next",
 		close: "close",

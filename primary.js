@@ -6,7 +6,7 @@ $(function()
     
     $("#BUT01").on("click", function()
     {
-       $(this).animate({ "margin-left" : " += 300 "});
+       $(this).hide();
         
     });
     

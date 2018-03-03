@@ -1,0 +1,25 @@
+.LOC-T-01
+{
+    display:    flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.BOX-T-01
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    height: 10vh;
+    width: 10vw;
+    border: 2px solid black;
+    
+    font-size: 3rem;
+    font-family: arial;
+    
+    
+    
+}

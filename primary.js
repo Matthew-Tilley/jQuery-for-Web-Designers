@@ -6,7 +6,7 @@ $(function()
     
     $("#BUT01").on("click", function()
     {
-        console.log("LKJAJSLKASJD");
+       $(this).animate({ "margin-left" : 5000 });
     });
     
     

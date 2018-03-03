@@ -3,7 +3,7 @@ $(function()
  
     $(".TESTPIC").on("click", function()
     {
-        $(this).hide();
+        console.log("CLICK EVEN REGISTERED");
     });
     
     

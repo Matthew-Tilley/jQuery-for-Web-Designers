@@ -6,7 +6,9 @@ $(function()
     
     $("#BUT01").on("click", function()
     {
-       $(this).hide();
+       $(".BOX-T-01").animate({ "height" : "+=200%" 
+                                "width" : "+=2000%"
+                              });
         
     });
     

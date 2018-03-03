@@ -1,7 +1,10 @@
 $(function()
 {
  
-    $(".TESTPIC").on("hover").fadeOut(2000);
+    $(".TESTPIC").on("click", function()
+    {
+        $(this).hide();
+    });
     
     
     
